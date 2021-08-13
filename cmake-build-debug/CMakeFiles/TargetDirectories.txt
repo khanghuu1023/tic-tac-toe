@@ -1,0 +1,3 @@
+C:/Users/Khang/Desktop/C++/test/tic-tac-toe/cmake-build-debug/CMakeFiles/Tic_tac_toe.dir
+C:/Users/Khang/Desktop/C++/test/tic-tac-toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Khang/Desktop/C++/test/tic-tac-toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
